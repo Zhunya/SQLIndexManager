@@ -96,3 +96,5 @@ This switch is used to specify the predescribe index size in MB. Overrides globa
 **/maxindexsize 8096**
 
 This switch is used to specify the maximun index size in MB. Overrides global option (8 GB)
+
+test
